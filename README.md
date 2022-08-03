@@ -9,8 +9,8 @@
 <details>
  <summary>Скріншоти </summary>
 
-![1](/0.%20Git%20Basics/Introduction%20to%20Git%20and%20GitHub/Week1.PNG "Скріншот 1")
-![2](/0.%20Git%20Basics/Introduction%20to%20Git%20and%20GitHub/Week2.PNG "Скріншот 2")
+![1](/0.%20Task_git_basics/Introduction%20to%20Git%20and%20GitHub/Week1.PNG "Скріншот 1")
+![2](/0.%20Task_git_basics/Introduction%20to%20Git%20and%20GitHub/Week2.PNG "Скріншот 2")
 </details>
 
 ## learngitbranching.js:
@@ -21,8 +21,8 @@
 <details>
  <summary>Скріншоти  </summary>
 
-![1](/0.%20Git%20Basics/Learngitbranching.js.org/%D0%92%D1%96%D0%B4%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D1%96%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D1%97%20Push%20%26%20Pull%20--%20%D0%B2%D1%96%D0%B4%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D1%96%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D1%97%20%D0%B2%20Git.PNG "Скріншот 1")
-![2](/0.%20Git%20Basics/Learngitbranching.js.org/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8%20Introduction%20Sequence.PNG "Скріншот 2")
+![1](/0.%20Task_git_basics/Learngitbranching.js.org/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8%20Introduction%20Sequence.PNG "Скріншот 1")
+![2](/0.%20Task_git_basics/Learngitbranching.js.org/%D0%92%D1%96%D0%B4%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D1%96%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D1%97%20Push%20%26%20Pull%20--%20%D0%B2%D1%96%D0%B4%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D1%96%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D1%97%20%D0%B2%20Git.PNG "Скріншот 2")
 </details>
 <br>
 
@@ -36,10 +36,10 @@
 <details>
  <summary>Скріншоти  </summary>
 
-![1](/1.%20Linux%20CLI%20and%20Networking/Linux%20Survival/Linux1.PNG "Скріншот 1")
-![2](/1.%20Linux%20CLI%20and%20Networking/Linux%20Survival/Linux2.PNG "Скріншот 2")
-![3](/1.%20Linux%20CLI%20and%20Networking/Linux%20Survival/Linux3.PNG "Скріншот 3")
-![4](/1.%20Linux%20CLI%20and%20Networking/Linux%20Survival/Linux4.PNG "Скріншот 4")
+![1](/1.%20Task_linux_cli/Linux%20Survival/Linux1.PNG "Скріншот 1")
+![2](/1.%20Task_linux_cli/Linux%20Survival/Linux2.PNG "Скріншот 2")
+![3](/1.%20Task_linux_cli/Linux%20Survival/Linux3.PNG "Скріншот 3")
+![4](/1.%20Task_linux_cli/Linux%20Survival/Linux4.PNG "Скріншот 4")
 
 </details>
 
