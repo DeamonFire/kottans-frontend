@@ -1,5 +1,5 @@
 ﻿﻿
-# Git та GitHub
+# 0. Git Basics
 
 ## Course Introduction
 1. Нова річ: Дізнався безліч цікавих можливостей Git. Найбільш новим було це можливість відкочувати зміни до минулих версій
@@ -8,9 +8,6 @@
 
 <details>
  <summary>Деталі </summary>
-
-Щодо курсів від "Coursera"
-Були дуже пізнавальними. Я вже проходив одне навчання по full stack розробці сайтів. І роботі з git там була приділена мінімальна увага, тому було досить важко розібратись самостійно. Завдяки цьому курсу дізнався багато нових речей з самого початку навчання. Тепер залишається лише закріпти їх практикою =)
 
 ![1](/0.%20Git%20Basics/Introduction%20to%20Git%20and%20GitHub/Week1.PNG "Скріншот 1")
 ![2](/0.%20Git%20Basics/Introduction%20to%20Git%20and%20GitHub/Week2.PNG "Скріншот 2")
@@ -24,14 +21,11 @@
 <details>
  <summary>Деталі </summary>
 
-Щодо курсу learngitbranching.js
-Корисна практика щодо Git, правда деякі завдання були досить складними, прийшлось шукати пояснення в інтернеті, оскільки пояснення в самому курсу не завжди були зрозумілими. Надіюсь з часом на практиці буде зрозуміла доцільність всього того що було в даному курсі
-
 ![1](/0.%20Git%20Basics/Learngitbranching.js.org/%D0%92%D1%96%D0%B4%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D1%96%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D1%97%20Push%20%26%20Pull%20--%20%D0%B2%D1%96%D0%B4%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D1%96%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D1%97%20%D0%B2%20Git.PNG "Скріншот 1")
 ![2](/0.%20Git%20Basics/Learngitbranching.js.org/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8%20Introduction%20Sequence.PNG "Скріншот 2")
 </details>
 
-# Linux CLI, and HTTP
+# 1. Linux CLI, and HTTP
 
 ## Linux Survival
 1. Нова річ: Нове все крім "сd". Ніколи раніше не користувався Linux
@@ -40,9 +34,6 @@
 
 <details>
  <summary>Деталі </summary>
-
-Щодо курсу Linux Survival
-Корисне та зрозуміле практичне навчання команд Linux. 
 
 ![1](/1.%20Linux%20CLI%20and%20Networking/Linux%20Survival/Linux1.PNG "Скріншот 1")
 ![2](/1.%20Linux%20CLI%20and%20Networking/Linux%20Survival/Linux2.PNG "Скріншот 2")
