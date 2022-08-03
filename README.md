@@ -9,8 +9,8 @@
 <details>
  <summary>Деталі </summary>
 
-![1](/0. Git Basics/Introduction to Git and GitHub/Week1.png "Скриншот 1")
-![2](/0. Git Basics/Introduction to Git and GitHub/Week2.png "Скриншот 2")
+![1](/0.%20Git%20Basics/Introduction%20to%20Git%20and%20GitHub/Week1.PNG "Скриншот 1")
+![2](/0.%20Git%20Basics/Introduction%20to%20Git%20and%20GitHub/Week2.PNG "Скриншот 2")
 
 Щодо курсів від "Coursera"
 Були дуже пізнавальними. Я вже проходив одне навчання по full stack розробці сайтів. І роботі з git там була приділена мінімальна увага, тому було досить важко розібратись самостійно. Завдяки цьому курсу дізнався багато нових речей з самого початку навчання. Тепер залишається лише закріпти їх практикою =)
