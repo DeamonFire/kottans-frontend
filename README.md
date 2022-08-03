@@ -39,6 +39,7 @@
 ![2](/1.%20Linux%20CLI%20and%20Networking/Linux%20Survival/Linux2.PNG "Скріншот 2")
 ![3](/1.%20Linux%20CLI%20and%20Networking/Linux%20Survival/Linux3.PNG "Скріншот 3")
 ![4](/1.%20Linux%20CLI%20and%20Networking/Linux%20Survival/Linux4.PNG "Скріншот 4")
+
 </details>
 
 ## HTTP (частина 1)
