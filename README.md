@@ -52,3 +52,32 @@
 1. Нова річ: HTTPS, SSL, постійні з'єднання, паралельні з'єднання - перший про це чую
 2. Річ яка мене здивувала: Детальний розбір гешування. Раніше не знав скільки там функцій і наскільки це заплутаний процес. Вважав що просто збергає дані по відвідуванню сайтів і що це просто )
 3. Річ яку я збираюсь використовувати в майбутньому: Ідентифікація та автентифікація
+<br>
+
+# 2. Git Collaboration
+
+## Introduction to Git and GitHub
+1. Нова річ: Нового було багато, но найперше що приходить в голову це те як відбувається Code Reviews
+2. Річ яка мене здивувала: Автоматизовані тести "Travis"
+3. Річ яку я збираюсь використовувати в майбутньому: pull request, fork 
+
+<details>
+ <summary>Скріншоти </summary>
+
+![1](/2.%20Task_git_collaboration/Introduction%20to%20Git%20and%20GitHub/Week3.PNG "Скріншот 1")
+![2](/2.%20Task_git_collaboration/Introduction%20to%20Git%20and%20GitHub/Week4.PNG "Скріншот 2")
+</details>
+
+
+## learngitbranching.js:
+
+1. Нова річ: Майже все нове, но цього користувався "GitHub Desktop" і графічним інтерфейсом
+2. Річ яка мене здивувала: інформація про HEAD, раніше не задумувався про про це
+3. Річ яку я збираюсь використовувати в майбутньому: merge, pull, push, clone, rebase, checkout -звісно і інше також, но саме ці команди напевно основні
+
+<details>
+ <summary>Скріншоти </summary>
+
+![1](/2.%20Task_git_collaboration/Learngitbranching.js.org/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8%20Introduction%20Sequence.PNG "Скріншот 1")
+![2](/2.%20Task_git_collaboration/Learngitbranching.js.org/%D0%92%D1%96%D0%B4%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D1%96%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D1%97%20Push%20%26%20Pull%20--%20%D0%B2%D1%96%D0%B4%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D1%96%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D1%97%20%D0%B2%20Git.PNG "Скріншот 2")
+</details>
