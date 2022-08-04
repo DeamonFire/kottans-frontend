@@ -83,6 +83,4 @@
 </details>
 
 
-## Hello everyone, my name is [Mykola]
-I am learning Frontend (for now on my own) And from now on together with all of you =)
-https://github.com/DeamonFire
+
