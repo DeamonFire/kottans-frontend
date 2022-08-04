@@ -81,3 +81,8 @@
 ![1](/2.%20Task_git_collaboration/Learngitbranching.js.org/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8%20Introduction%20Sequence.PNG "Скріншот 1")
 ![2](/2.%20Task_git_collaboration/Learngitbranching.js.org/%D0%92%D1%96%D0%B4%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D1%96%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D1%97%20Push%20%26%20Pull%20--%20%D0%B2%D1%96%D0%B4%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D1%96%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D1%97%20%D0%B2%20Git.PNG "Скріншот 2")
 </details>
+
+
+## Hello everyone, my name is [Mykola]
+I am learning Frontend (for now on my own) And from now on together with all of you =)
+https://github.com/DeamonFire
