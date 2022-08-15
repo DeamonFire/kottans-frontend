@@ -142,7 +142,8 @@
  <summary>Скріншоти </summary>
 
 ![1](/4.%20Task_responsive_web_design/FLEXBOX/FLEX.PNG "Скріншот 1")
-![2](//4.%20Task_responsive_web_design/FLEXBOX/Flex_homework.PNG "Скріншот 2")
+![1](/4.%20Task_responsive_web_design/FLEXBOX/Flex-homework.PNG "Скріншот 1")
+
 </details>
 
 ## Flexbox Froggy 
@@ -151,9 +152,9 @@
 3. Річ яку я збираюсь використовувати в майбутньому: Всі можливості flex
 
 <details>
- <summary>Скріншоти </summary>
+<summary>Скріншоти </summary>
 
-![1](4.%20Task_responsive_web_design/FLEXBOX/Flex_homework.PNG"Скріншот 1")
+![1](/4.%20Task_responsive_web_design/Flexbox%20Froggy/FlexFroggy.PNG "Скріншот 1")
 </details>
 
 
