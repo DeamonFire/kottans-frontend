@@ -122,3 +122,47 @@
 
 ![1](/3.%20Task_html_css_intro/Learn%20HTML%20%2B%20CSS/HTML%20%2B%20CSS.PNG "Скріншот 1")
 </details>
+
+# Responsive Web Design
+
+## Responsive web design basics
+
+1. Нова річ:
+2. Річ яка мене здивувала:
+3. Річ яку я збираюсь використовувати в майбутньому: 
+
+## FLEXBOX. Вчимося верстати на флексах
+
+1. Нова річ:
+2. Річ яка мене здивувала:
+3. Річ яку я збираюсь використовувати в майбутньому: 
+
+
+## Flexbox Froggy 
+1. Нова річ:
+2. Річ яка мене здивувала:
+3. Річ яку я збираюсь використовувати в майбутньому: 
+
+<details>
+ <summary>Скріншоти </summary>
+
+![1](/4.%20Task_responsive_web_design/Flexbox%20Froggy/FlexFroggy.PNG "Скріншот 1")
+</details>
+
+
+## CSS Grid Layout
+1. Нова річ:
+2. Річ яка мене здивувала:
+3. Річ яку я збираюсь використовувати в майбутньому: 
+
+## Grid Garden 
+
+1. Нова річ:
+2. Річ яка мене здивувала:
+3. Річ яку я збираюсь використовувати в майбутньому: 
+
+<details>
+ <summary>Скріншоти </summary>
+
+![1](/4.%20Task_responsive_web_design/Grid%20Garden/gridgarden.PNG "Скріншот 1")
+</details>
