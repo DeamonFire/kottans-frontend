@@ -153,7 +153,7 @@
 <details>
  <summary>Скріншоти </summary>
 
-![1](/4.%20Task_responsive_web_design/Flexbox%20Froggy/FlexFroggy.PNG "Скріншот 1")
+![1](4.%20Task_responsive_web_design/FLEXBOX/Flex_homework.PNG"Скріншот 1")
 </details>
 
 
