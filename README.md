@@ -137,7 +137,13 @@
 1. Нова річ: всі властивості Flex для мене були новими, ті про які читав у попередній статті на практиці стали зрозуміліші =)
 2. Річ яка мене здивувала: flex-wrap
 3. Річ яку я збираюсь використовувати в майбутньому: flex, flex-wrap, flex-direction і т.д.
+<details>
 
+ <summary>Скріншоти </summary>
+
+![1](/4.%20Task_responsive_web_design/FLEXBOX/FLEX.PNG "Скріншот 1")
+![2](//4.%20Task_responsive_web_design/FLEXBOX/Flex_homework.PNG "Скріншот 2")
+</details>
 
 ## Flexbox Froggy 
 1. Нова річ: flex-flow
@@ -155,6 +161,13 @@
 1. Нова річ: всі властивості Flex для мене були новими, ті про які читав у попередній статті на практиці стали зрозуміліші =)
 2. Річ яка мене здивувала: grid-template - складна штука но можливості і лаконічність запису дивують
 3. Річ яку я збираюсь використовувати в майбутньому: Все, дуже сподобались можливості grid тому і grid-template, grid-template-areas і все інше пов'язане з grid
+
+<details>
+<summary>Скріншоти </summary>
+
+![1](/4.%20Task_responsive_web_design/CSS%20Grid%20Layout/Grid.PNG "Скріншот 1")
+![2](/4.%20Task_responsive_web_design/CSS%20Grid%20Layout/GRID_homework.PNG "Скріншот 2")
+</details>
 
 ## Grid Garden 
 
