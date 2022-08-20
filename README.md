@@ -181,3 +181,15 @@
 
 ![1](/4.%20Task_responsive_web_design/Grid%20Garden/gridgarden.PNG "Скріншот 1")
 </details>
+
+# 5. Hooli-style Popup
+
+1. Нова річ: приховування чекбоксів і робота з їх станами
+2. Річ яка мене здивувала: focus і те як його налаштовувати
+3. Річ яку я збираюсь використовувати в майбутньому: :hover, :checked, :focus
+
+<details>
+ <summary>Скріншоти </summary>
+
+![1](/5.%20Task_Hooli-style_Popup/Hooli-style%20Popup.PNG "Скріншот 1")
+</details>
