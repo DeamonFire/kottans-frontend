@@ -181,6 +181,7 @@
 
 ![1](/4.%20Task_responsive_web_design/Grid%20Garden/gridgarden.PNG "Скріншот 1")
 </details>
+<br>
 
 # 5. Hooli-style Popup
 
@@ -193,3 +194,36 @@
 
 ![1](/5.%20Task_Hooli-style_Popup/Hooli-style%20Popup.PNG "Скріншот 1")
 </details>
+<br>
+
+# 6. JavaScript Basics
+
+## Introduction to JS
+
+1. Нова річ: this - раніше бачив в інших кодах і не розумів що це
+2. Річ яка мене здивувала: вложені функції JS
+3. Річ яку я збираюсь використовувати в майбутньому: функціональне програмуванням
+
+<details>
+<summary>Скріншоти </summary>
+
+![1](/6.%20Task_js_basics/Introduction%20to%20JS/JS_basic.PNG "Скріншот 1")
+</details>
+
+## FreeCodeCamp
+
+1. Нова річ: Регулярні вирази
+2. Річ яка мене здивувала: Регулярні вирази
+3. Річ яку я збираюсь використовувати в майбутньому: map, slice, splice, filter, reduce та Регулярні вирази =)
+
+<details>
+<summary>Скріншоти </summary>
+
+![1](/6.%20Task_js_basics/FreeCodeCamp/Basic%20JavaScript.PNG "Скріншот 1")
+![2](/6.%20Task_js_basics/FreeCodeCamp/ES6%20Challenges%20.PNG"Скріншот 2")
+![2](/6.%20Task_js_basics/FreeCodeCamp/Basic%20Data%20Structures.PNG"Скріншот 3")
+![2](/6.%20Task_js_basics/FreeCodeCamp/Basic%20Algorithm%20Scripting.PNG"Скріншот 4")
+![2](/6.%20Task_js_basics/FreeCodeCamp/Functional%20Programming.PNG"Скріншот 5")
+![2](/6.%20Task_js_basics/FreeCodeCamp/Intermediate%20Algorithm%20Scripting.PNG"Скріншот 6")
+</details>
+
