@@ -265,6 +265,10 @@
 2. Річ яка мене здивувала: createElement
 3. Річ яку я збираюсь використовувати в майбутньому: createElement, innerHTML і т.д.
 
+[Посилання на GitHub Pages](https://deamonfire.github.io/DocumentObjectModel/)
+[Посилання на Git](https://github.com/DeamonFire/DocumentObjectModel)
+
+
 <details>
 <summary>Скріншоти </summary>
 
