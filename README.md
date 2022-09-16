@@ -224,9 +224,52 @@
 
 ![1](/6.%20Task_js_basics/FreeCodeCamp/Basic%20JavaScript.PNG "Скріншот 1")
 ![2](/6.%20Task_js_basics/FreeCodeCamp/ES6%20Challenges%20.PNG "Скріншот 2")
-![2](/6.%20Task_js_basics/FreeCodeCamp/Basic%20Data%20Structures.PNG "Скріншот 3")
-![2](/6.%20Task_js_basics/FreeCodeCamp/Basic%20Algorithm%20Scripting.PNG "Скріншот 4")
-![2](/6.%20Task_js_basics/FreeCodeCamp/Functional%20Programming.PNG "Скріншот 5")
-![2](/6.%20Task_js_basics/FreeCodeCamp/Intermediate%20Algorithm%20Scripting.PNG "Скріншот 6")
+![3](/6.%20Task_js_basics/FreeCodeCamp/Basic%20Data%20Structures.PNG "Скріншот 3")
+![4](/6.%20Task_js_basics/FreeCodeCamp/Basic%20Algorithm%20Scripting.PNG "Скріншот 4")
+![5](/6.%20Task_js_basics/FreeCodeCamp/Functional%20Programming.PNG "Скріншот 5")
+![6](/6.%20Task_js_basics/FreeCodeCamp/Intermediate%20Algorithm%20Scripting.PNG "Скріншот 6")
 </details>
+<br>
+
+# 7. DOM
+
+## Document Object Model Manipulation
+
+1. Нова річ: Абсолютно все нове
+2. Річ яка мене здивувала: Слухачі подій
+3. Річ яку я збираюсь використовувати в майбутньому: Слухачі подій =)
+
+<details>
+<summary>Скріншоти </summary>
+
+![1](/7.%20Document%20Object%20Model/Document%20Object%20Model%20Manipulation/DOM.PNG "Скріншот 1")
+
+</details>
+
+## Algorithm Scripting Challenges
+
+1. Нова річ: Робота з об'єктами, 
+2. Річ яка мене здивувала: fromCharCode
+3. Річ яку я збираюсь використовувати в майбутньому: fromCharCode, агрументи
+
+<details>
+<summary>Скріншоти </summary>
+
+![1](/7.%20Document%20Object%20Model/Algorithm%20Scripting%20Challenges/Intermediate_Algorithm_Scripting.PNG "Скріншот 1")
+
+</details>
+
+## Практичне завдання
+
+1. Нова річ: методи DOM 
+2. Річ яка мене здивувала: createElement
+3. Річ яку я збираюсь використовувати в майбутньому: createElement, innerHTML і т.д.
+
+<details>
+<summary>Скріншоти </summary>
+
+![1](/7.%20Document%20Object%20Model/DOM_practic/DOM_practic.PNG "Скріншот 1")
+
+</details>
+
 
