@@ -327,14 +327,16 @@
 
 ## Практика - Classic Frogger Game
 
-1. Нова річ: 
-2. Річ яка мене здивувала: 
-3. Річ яку я збираюсь використовувати в майбутньому: 
+1. Нова річ: практична робота з класами
+2. Річ яка мене здивувала: движок гри
+3. Річ яку я збираюсь використовувати в майбутньому: класи, методи, об'єкти
+
+[Посилання на GitHub Pages](https://deamonfire.github.io/frontend-nanodegree-arcade-game/)
 
 <details>
 <summary>Скріншоти </summary>
 
-![1](9. "Скріншот 1")
+![1](9.%20Object-Oriented%20JavaScript/Classic_Frogger_Game/Frogger.PNG "Скріншот 1")
 
 </details>
 
